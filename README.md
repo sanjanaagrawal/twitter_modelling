@@ -1,6 +1,6 @@
 # Twitter_Modelling_Neo4j
 
-***Storing twitter dataset using Cassandra NoSQL Database.***
+***Storing twitter dataset using NEO4J NoSQL Database.***
 
 ## Objective:-
 **1**)Given a Twitter dataset, created a **Neo4j database** and a **Python script** to insert the data into the database.
